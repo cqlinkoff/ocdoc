@@ -1,0 +1,7 @@
+{
+  "extends": "standard",
+  "plugins": [
+    "babel"
+  ],
+  "parser": "babel-eslint"
+}
