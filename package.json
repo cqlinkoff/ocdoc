@@ -22,6 +22,14 @@
     "email": "kingsongao1221@gmail.com",
     "url": "https://kingsongao.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqmbr/ocdoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cqmbr/ocdoc/issues"
+  },
+  "homepage": "https://github.com/cqmbr/ocdoc#readme",
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.49",
