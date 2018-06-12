@@ -45,7 +45,7 @@ const start = async () => {
     }
 
     spawnSync('appledoc', [
-      '--no-create-set',
+      '--no-create-docset',
       '--output',
       output,
       '--project-name',
