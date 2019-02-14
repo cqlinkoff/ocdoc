@@ -1,6 +1,6 @@
 {
   "name": "@cqmbr/ocdoc",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Objective-C document tool",
   "main": "bin/index.js",
   "bin": {
