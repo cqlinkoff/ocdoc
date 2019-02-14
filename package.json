@@ -1,5 +1,5 @@
 {
-  "name": "@cqmbr/ocdoc",
+  "name": "@cqlinkoff/ocdoc",
   "version": "1.1.0",
   "description": "Objective-C document tool",
   "main": "bin/index.js",
