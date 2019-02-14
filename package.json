@@ -32,31 +32,31 @@
   "homepage": "https://github.com/cqmbr/ocdoc#readme",
   "license": "MIT",
   "dependencies": {
-    "@babel/runtime": "^7.0.0-beta.49",
-    "chalk": "^2.4.1",
-    "command-exists": "^1.2.6",
-    "commander": "^2.15.1",
-    "jsdom": "^11.11.0",
+    "@babel/runtime": "^7.3.1",
+    "chalk": "^2.4.2",
+    "command-exists": "^1.2.8",
+    "commander": "^2.19.0",
+    "jsdom": "^13.2.0",
     "recursive-readdir": "^2.2.2",
-    "yargs": "^11.0.0"
+    "yargs": "^13.1.0"
   },
   "engines": {
     "node": ">= 8",
     "npm": ">= 5"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0-beta.49",
-    "@babel/core": "^7.0.0-beta.49",
-    "@babel/plugin-transform-runtime": "^7.0.0-beta.49",
-    "@babel/preset-env": "^7.0.0-beta.49",
-    "@babel/preset-stage-0": "^7.0.0-beta.49",
-    "babel-eslint": "^8.2.3",
-    "eslint": "^4.19.1",
-    "eslint-config-standard": "^11.0.0",
-    "eslint-plugin-babel": "^5.1.0",
-    "eslint-plugin-import": "^2.12.0",
-    "eslint-plugin-node": "^6.0.1",
-    "eslint-plugin-promise": "^3.8.0",
-    "eslint-plugin-standard": "^3.1.0"
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-runtime": "^7.2.0",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-stage-0": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
   }
 }
