@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-npm i @cqmbr/ocdoc -g
+npm i @cqlinkoff/ocdoc -g
 ```
 
 ## Use
